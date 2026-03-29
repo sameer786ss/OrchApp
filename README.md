@@ -35,9 +35,4 @@ Orch AI stands as a foundation for the ubiquitous integration of true intelligen
 
 This repository and its entire contents are the proprietary intellectual property of **Orch**. Unauthorized reproduction, derivation, distribution, or execution of the source code, architecture, or assets herein is strictly prohibited. 
 
-**Orch™** and the **Orch AI™** logo are registered trademarks. 
-
-<div align="center">
-  <br />
-  <sub><i>Engineered for performance. Built for privacy.</i></sub>
-</div>
+Source Code is proprietary available upon request!
