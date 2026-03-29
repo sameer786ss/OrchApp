@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="logo.png" alt="Orch AI Logo" width="120" />
-</div>
-
 <h1 align="center">Orch AI</h1>
 <p align="center">
   <strong>The Next-Generation, Fully On-Device AI Orchestrator for Android</strong>
